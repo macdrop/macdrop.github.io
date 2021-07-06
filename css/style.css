@@ -2,14 +2,14 @@
 
 :root {
   /**** カラー ****/
-  --text-color: #707070;
-  --gray2: #707070;
-  --gray1: #F4F4F4;
+  --text-color: #333333;
+  --gray2: #4C524C;
+  --gray1: #9A9A9A;
   --white: #FFFFFF;
-  --sub-color2: #F4F4F4;
-  --sub-color1: #F4F4F4;
-  --main-color: #707070;
-  --base-color: #F4F4F4;
+  --sub-color2: #DAE2DB;
+  --sub-color1: #F0F5F0;
+  --main-color: #73A776;
+  --base-color: #FDF7F3;
   /**** フォント ****/
   --noto-sans-font-family: "Noto Sans JP", sans-serif;
   --arial-font-family: Arial, sans-serif;
